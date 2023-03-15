@@ -4,6 +4,8 @@ Análises Geoespaciais realizadas em ArcGis | R
 ## Machine Learning: Análise de Potencial de Ocorrência
 :book:[Tese Doutorado](https://github.com/nfreitas1990/TeseDoutorado)
 </br>
+##### O objetivo principal do projeto consiste em Avaliar e Projetar os efeitos das mudanças climáticas na distribuição geográfica das comunidades de insetos aquáticos bioindicadores, no bioma Mata Atlântica, utilizando Machine Learning.
+
 ![image](https://user-images.githubusercontent.com/28782509/212334874-aff65583-0bb7-4731-99eb-fb62402e9364.png)
 
 
